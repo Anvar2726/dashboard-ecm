@@ -1,0 +1,8 @@
+.ant-layout-sider{
+    min-height: 100vh;
+}
+
+.ant-table-content{
+    overflow-y: scroll;
+    height: calc(100vh - 300px);
+}
